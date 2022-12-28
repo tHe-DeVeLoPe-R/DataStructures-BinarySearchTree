@@ -99,6 +99,3 @@ def driver():
     bst.printTree(root)
 
 driver()
-
-
-            
